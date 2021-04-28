@@ -1,4 +1,4 @@
-# meta-quectel-community
+# meta-quectel-lte5g
 
 This repository contains the Yocto Project layer for working with Quectel's USB Modems.
 
